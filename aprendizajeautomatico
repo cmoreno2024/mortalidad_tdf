@@ -1,2 +1,1 @@
-pip install cookiecutter
-cookiecutter https://github.com/DiegoLerma/cookiecutter-jupyter-data-science
+
